@@ -1,0 +1,6 @@
+{
+  "name": "MAPLE Inc. CRM",
+  "description": "A purpose-built relationship management and donor fundraising platform for MAPLE Inc. — Making Aging People Lives Easier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
